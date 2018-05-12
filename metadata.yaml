@@ -1,0 +1,31 @@
+_repo: The-Exiles-and-Other-Stories_16090
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Davis, Richard Harding
+    birthdate: 1864
+    deathdate: 1916
+    gutenberg_agent_id: '181'
+    url: http://www.gutenberg.org/2009/agents/181
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Harding_Davis
+description: ''
+gutenberg_issued: '2005-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16090'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PS'
+tableOfContents: The exiles -- The boy orator of Zepata city -- The other woman --
+  On the fever ship -- The lion and the unicorn -- The last ride together -- Miss
+  Delamar's understudy -- The reporter who made himself king.
+title: The Exiles and Other Stories
+url: http://www.gutenberg.org/ebooks/16090
